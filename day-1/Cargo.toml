@@ -5,6 +5,6 @@ authors = ["LukeBillo <n0627514@ntu.ac.uk>"]
 edition = "2018"
 
 [lib]
-path = "src/day-1.rs"
+path = "./src/day-1.rs"
 
 [dependencies]

@@ -6,7 +6,7 @@ edition = "2018"
 
 [[bin]]
 name = "main"
-path = "./main"
+path = "./main/main.rs"
 
 [dependencies]
 day-1 = { path = "./day-1" }
