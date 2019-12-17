@@ -7,5 +7,5 @@ fn main() {
     let file_name = &args[1];
 
     println!("{:?}", file_name);
-    day_1::run(file_name);
+    day_2::run(file_name);
 }

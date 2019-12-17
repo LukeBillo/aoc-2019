@@ -1,0 +1,10 @@
+[package]
+name = "day-2"
+version = "0.1.0"
+authors = ["LukeBillo <n0627514@ntu.ac.uk>"]
+edition = "2018"
+
+[lib]
+path = "./src/day-2.rs"
+
+[dependencies]

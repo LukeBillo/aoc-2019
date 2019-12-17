@@ -10,3 +10,4 @@ path = "./main/main.rs"
 
 [dependencies]
 day-1 = { path = "./day-1" }
+day-2 = { path = "./day-2" }
